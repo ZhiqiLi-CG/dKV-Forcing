@@ -8,5 +8,5 @@ Code coming soon.
 
 The following are early development repositories of this project, provided for reference only. They are **not** the final, clean code release; the cleaned-up code will be released in this repository.
 
-- [DecoupledMemoryForcing](https://github.com/ZhiqiLi-CG/DecoupledMemoryForcing)
+- [DecoupledMemoryForcing](https://github.com/ZhiqiLi-CG/DecoupledMemoryForcing)  (repo is based on Self Gradient Forcing repo)
 - [KVForcing](https://github.com/ZhiqiLi-CG/KVForcing)
